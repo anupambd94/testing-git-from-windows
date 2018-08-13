@@ -11,3 +11,10 @@
 	- for commiting com: git commit -m "your message"
 	- for adding all com: git add .
 
+6. Adding to the repository
+	- for adding link of the repository com: git remote add origin YourRepositoryLink
+	- for uploading all com: got push -u origin master
+7. other commands:
+	- git log
+	- git help
+

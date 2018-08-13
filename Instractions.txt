@@ -1,0 +1,13 @@
+1. install git
+2. check version : git --version
+3. go to the project folder in cmd
+4. setup git in that directory by com: git init
+5. link to git 
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+6. chacking status com: git status
+	- for adding file com: git add filename
+	- for commiting com: git commit -m "your message"
+	- for adding all com: git add .
+
